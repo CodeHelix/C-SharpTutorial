@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Player : MonoBehaviour 
-{
+public class myPlayer : MonoBehaviour 
+{ 
 	public float playerSpeed = 5.0f;
 
 	// Use this for initialization
